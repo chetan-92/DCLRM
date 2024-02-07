@@ -1,1 +1,1 @@
-# DCLRM
+# Python pratice codes
